@@ -3,13 +3,13 @@ module order-tracking
 go 1.22
 
 require (
-	github.com/dgrijalva/jwt-go v3.2.0+incompatible
-	github.com/labstack/echo/v4 v4.12.0
-	github.com/swaggo/echo-swagger v1.4.1
-	github.com/swaggo/swag v1.16.3
-	golang.org/x/crypto v0.25.0
-	gorm.io/driver/postgres v1.5.0
-	gorm.io/gorm v1.24.7-0.20230306060331-85eaf9eeda11
+    github.com/dgrijalva/jwt-go v3.2.0+incompatible
+    github.com/labstack/echo/v4 v4.12.0
+    github.com/swaggo/echo-swagger v1.4.1
+    github.com/swaggo/swag v1.16.3
+    golang.org/x/crypto v0.25.0
+    gorm.io/driver/postgres v1.5.0
+    gorm.io/gorm v1.24.7-0.20230306060331-85eaf9eeda11
 )
 
 require (
